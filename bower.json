@@ -1,6 +1,6 @@
 {
   "name": "guilty",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "ignore": [
     "**/.*",
@@ -11,7 +11,7 @@
     "jquery": "~2.1.1",
     "backbone": "~1.1.2",
     "underscore": "~1.7.0",
-    "hubris": "~0.0.1",
+    "hubris": "~0.0.2",
     "moment": "~2.8.3"
   }
 }
