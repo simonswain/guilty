@@ -13,7 +13,7 @@ It saves a record of who did what to who.
 
 ## Release History
 
-* 07/10/2014 0.0.1
+* 07/10/2014 0.0.1 Pre-release verion
 
 ## License
 
