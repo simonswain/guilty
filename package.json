@@ -1,0 +1,45 @@
+{
+  "name": "guilty",
+  "description": "Activity Logger",
+  "version": "0.0.1",
+  "homepage": "https://github.com/simonswain/guilty",
+  "author": {
+    "name": "Simon Swain",
+    "email": "simon@simonswain.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simonswain/guilty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simonswain/guilty/issues"
+  },
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "any-db": "^2.1.0",
+    "any-db-postgres": "^2.1.3",
+    "async": "^0.9.0",
+    "grunt": "^0.4.5",
+    "handlebars": "^2.0.0",
+    "hapi": "^6.9.0",
+    "hapi-less": "^0.1.1",
+    "nodeunit-httpclient": "^0.2.1",
+    "pg": "^3.4.1",
+    "underscore": "^1.7.0",
+    "winston": "^0.7.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-env": "^0.4.1",
+    "nodeunit": "^0.9.0",
+    "nodeunit-httpclient": "^0.2.1"
+  }
+}
