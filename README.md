@@ -4,7 +4,7 @@ Version: 0.0.1
 
 [![Build Status](https://travis-ci.org/simonswain/guilty.png)](https://travis-ci.org/simonswain/guilty)
 
-Guilty is a simple activity logger for web appss.
+Guilty is a simple activity logger for web apps.
 
 
 It saves a record of who did what to who.
