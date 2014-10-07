@@ -2,3 +2,4 @@
 /node_modules
 _site/
 /lib/server/public/vendor
+/npm-debug.log
