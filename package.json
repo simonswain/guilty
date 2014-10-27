@@ -1,7 +1,7 @@
 {
   "name": "guilty",
   "description": "Activity Logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/simonswain/guilty",
   "author": {
     "name": "Simon Swain",
